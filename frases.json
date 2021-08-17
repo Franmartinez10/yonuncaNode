@@ -1,7 +1,4 @@
-[
-{"type":"header","version":"5.1.1-1.el7.remi","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"admin_yo_nunca"},
-{"type":"table","name":"frases","database":"admin_yo_nunca","data":
+
 [
 {"frases":"…he hecho una cubana o viceversa.","id":"1"},
 {"frases":"…he utilizado condones de sabores.","id":"2"},
@@ -235,5 +232,5 @@
 {"frases":"...le daría un pico a la persona de mi derecha.","id":"230"},
 {"frases":"...le comería la oreja a la persona de mi izquierda.","id":"231"}
 ]
-}
-]
+
+
